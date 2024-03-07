@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bodoni+Moda&family=EB+Garamond&family=Josefin+Sans&family=Libre+Baskerville&family=Maven+Pro&family=Montserrat&family=Noto+Serif&family=Roboto&family=Ubuntu&family=Work+Sans&display=swap');
+
+.text:hover {
+    outline: 3px solid #357df9;
+}
+
+.editable {
+    outline: 3px solid green;
+    cursor: text;
+    user-select: auto;
+}
+.editable:hover {
+    outline: 3px solid green;
+}
